@@ -1,6 +1,6 @@
-# React Route Practice
+# React Animation Playground
 
-This is a React Route Practice web application built with React. The goal of this project practice with react-router-dom library. Also I added authentification to React app and practiced working in the backend.
+This is a React Animation Playground web application built with React. The goal of this project practice with framer-motion library.
 
 ![Screenshot with app](/public/screencapture.png)
 
